@@ -182,7 +182,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 
 ### Build for Production
 
@@ -256,7 +255,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <strong>Built with 💜 by <a href="https://github.com/evanmahmud">Evan Mahmud</a></strong>
+  <strong>Built with 💜 by <a href="https://github.com/evanmahmud">Md Mahmudul Hoque</a></strong>
 </p>
 
 <p align="center">
